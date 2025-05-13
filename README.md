@@ -13,3 +13,4 @@ mvn package
 
 java -jar target/Prog_lab5-1.0-FINAL.jar
 ```
+сдали 13-05-2025
